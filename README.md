@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on servyou company.
+- 🔭 I’m currently working on intime company.
 - 🌱 I’m currently learning visual construction, vue3 mobile component library construction, chatGPT application scenarios.
 - 👯 I’m looking to collaborate on open-source projects related to front-end development or any exciting web-based projects.
 - 🤔 I’m looking for help with learning advanced topics in React or Vue, particularly accessible and internationalized web development.
