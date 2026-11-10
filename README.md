@@ -1,24 +1,24 @@
-### Hi there 👋
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-hero-mobile.svg">
+  <img src="./assets/profile-hero.svg" width="100%" alt="Adrian Zephyr Liao — retail AI, agent engineering, and frontend development at Taobao Shangou, Alibaba.">
+</picture>
 
-- 🔭 I’m currently working on intime company.
-- 🌱 I’m currently learning visual construction, vue3 mobile component library construction, chatGPT application scenarios.
-- 👯 I’m looking to collaborate on open-source projects related to front-end development or any exciting web-based projects.
-- 🤔 I’m looking for help with learning advanced topics in React or Vue, particularly accessible and internationalized web development.
-- 💬 Ask me about anything related to front-end development, JavaScript, CSS.
-- 📫 You can reach me through my personal website, email me at [liaowenrun@gmail.com].
-- 😄 My pronouns are he/him.
+## About
 
-<a href="https://github.com/Adrian-Zephyr-Liao">
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Adrian-Zephyr-Liao&column=7"/>
-  </p>
-</a>
+I'm **Wenrun Liao (廖雯润)**, known as **Jingzhao (璟昭)** at Alibaba. I work at **Taobao Shangou**, building AI applications for retail, with a background in frontend engineering.
 
-# Adrian Zephyr Liao 🌝
+My recent work spans merchant operations, replenishment workflows, and the tools and knowledge that support business agents.
 
- <img width="340px" src="https://github-readme-stats.vercel.app/api?username=Adrian-Zephyr-Liao&count_private=true&show_icons=true">
- <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-Zephyr-Liao&layout=compact">
+## Focus
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Adrian-Zephyr-Liao&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- **Retail AI & agents** — Integrating data, business rules, and tools into workflows with human review and verifiable results.
+- **Knowledge engineering** — Developing reusable domain knowledge and Skills, with evaluation and review to guide iteration.
+- **Frontend & developer experience** — Building web interfaces and tools for AI-assisted development across multiple repositories.
 
-![](http://antzuhl.cn:4000/get/@Adrian-Zephyr-Liao)
+## Toolbox
+
+`TypeScript` &nbsp; `React` &nbsp; `Vue` &nbsp; `Node.js` &nbsp; `Python`
+
+## Connect
+
+[liaowenrun@gmail.com](mailto:liaowenrun@gmail.com)
