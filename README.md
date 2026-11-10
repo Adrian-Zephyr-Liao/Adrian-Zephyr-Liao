@@ -17,7 +17,30 @@ My recent work spans merchant operations, replenishment workflows, and the tools
 
 ## Toolbox
 
-`TypeScript` &nbsp; `React` &nbsp; `Vue` &nbsp; `Node.js` &nbsp; `Python`
+<p>
+  <img src="./assets/badges/typescript.svg" alt="TypeScript">
+  <img src="./assets/badges/react.svg" alt="React">
+  <img src="./assets/badges/vue.svg" alt="Vue">
+  <img src="./assets/badges/nodejs.svg" alt="Node.js">
+  <img src="./assets/badges/python.svg" alt="Python">
+  <img src="./assets/badges/git.svg" alt="Git">
+  <img src="./assets/badges/docker.svg" alt="Docker">
+  <img src="./assets/badges/postgresql.svg" alt="PostgreSQL">
+</p>
+
+## GitHub Activity
+
+<p>
+  <img src="./assets/github-stats.svg" width="410" alt="GitHub statistics: commits, pull requests, issues, and repositories contributed to.">
+  <img src="./assets/github-languages.svg" width="410" alt="Language distribution across public GitHub repositories.">
+</p>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/github-contributions-mobile.svg">
+  <img src="./assets/github-contributions.svg" width="100%" alt="Public GitHub contribution activity over the past 365 days, grouped by week.">
+</picture>
+
+<sub>Public GitHub activity · refreshed daily</sub>
 
 ## Connect
 
